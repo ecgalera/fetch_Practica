@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: aqua;
+}
+
+#image{
+    width: 200px;
+    border-radius: 10px;
+    border: solid 4px ;
+}
+
+#card{
+    border: solid 2px black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: cadetblue;
+}
